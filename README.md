@@ -10,3 +10,8 @@ A simple dice game that displays random outcomes each time the page refreshed, s
 An interactive drumkit web application featuring 7 different drumkits, each playing unique sounds when keys are pressed or drum elements are clicked.
 **Technologies**: HTML, CSS, Advanced Javascript and DOM Manupulation
 **Features**: 7 different drumkits with unique sounds, sounds playback on key press or click, Animated key press for visual feedback
+
+## Project 3: Simon Game
+A classic memory game where players must repeat increasingly long sequences of colours and sounds
+**Technologies**:HTML, CSS, Jquery
+**Features**: Random sequence generation with four colors,User input handling,Game Over detection when mistake is made
