@@ -11,7 +11,7 @@ An interactive drumkit web application featuring 7 different drumkits, each play
 **Technologies**: HTML, CSS, Advanced Javascript and DOM Manupulation
 **Features**: 7 different drumkits with unique sounds, sounds playback on key press or click, Animated key press for visual feedback
 
-## Project 3: Simon Game
+##Project 3: Simon Game
 A classic memory game where players must repeat increasingly long sequences of colours and sounds
 **Technologies**:HTML, CSS, Jquery
 **Features**: Random sequence generation with four colors,User input handling,Game Over detection when mistake is made
