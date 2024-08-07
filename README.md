@@ -15,3 +15,8 @@ An interactive drumkit web application featuring 7 different drumkits, each play
 A classic memory game where players must repeat increasingly long sequences of colours and sounds
 **Technologies**:HTML, CSS, Jquery
 **Features**: Random sequence generation with four colors,User input handling,Game Over detection when mistake is made
+
+##Project 4: QR code generator
+A Simple  QR code generator built with Node.js that creates a QR code image from the user provided URL.
+**Technologies**:HTML, CSS, Node.js
+**Features**:Prompts the user to enter a URL, Generates a QR code image for the entered URL,Saves the QR code image in the current directory.
